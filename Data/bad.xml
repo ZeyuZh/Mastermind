@@ -1,0 +1,25 @@
+<!-- This strategy is incomplete - it can only solve ten codes within
+     ten guesses, though the tree actually goes to a depth of
+     eleven. -->  
+<node guess="0000">
+  <node black-hits="2" white-hits="0" guess="0001">
+    <node black-hits="2" white-hits="0" guess="0002">
+      <node black-hits="2" white-hits="0" guess="0003">
+	<node black-hits="2" white-hits="0" guess="0004">
+	  <node black-hits="2" white-hits="0" guess="0005">
+	    <node black-hits="3" white-hits="0" guess="0015">
+	      <node black-hits="3" white-hits="0" guess="0025">
+		<node black-hits="3" white-hits="0" guess="0035">
+		  <node black-hits="3" white-hits="0" guess="0045">
+		    <node black-hits="3" white-hits="0" guess="0055">
+		    </node>
+		  </node>
+		</node>
+	      </node>
+	    </node>
+	  </node>
+	</node>
+      </node>
+    </node>
+  </node>
+</node>

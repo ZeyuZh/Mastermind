@@ -1,0 +1,2595 @@
+<!-- A simple strategy, always guessing the first code that has not
+     been eliminated by previous guesses. This strategy can take up to
+     nine guesses. -->
+<node guess="0123">
+  <node black-hits="0" white-hits="0" guess="4444">
+    <node black-hits="0" white-hits="0" guess="5555">
+    </node>
+    <node black-hits="1" white-hits="0" guess="4555">
+      <node black-hits="2" white-hits="2" guess="5455">
+        <node black-hits="2" white-hits="2" guess="5545">
+          <node black-hits="2" white-hits="2" guess="5554">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="4455">
+      <node black-hits="0" white-hits="4" guess="5544">
+      </node>
+      <node black-hits="2" white-hits="2" guess="4545">
+        <node black-hits="0" white-hits="4" guess="5454">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4554">
+          <node black-hits="0" white-hits="4" guess="5445">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="4445">
+      <node black-hits="2" white-hits="2" guess="4454">
+        <node black-hits="2" white-hits="2" guess="4544">
+          <node black-hits="2" white-hits="2" guess="5444">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="0" white-hits="1" guess="1411">
+    <node black-hits="0" white-hits="0" guess="2252">
+      <node black-hits="0" white-hits="1" guess="3335">
+        <node black-hits="0" white-hits="1" guess="5000">
+          <node black-hits="3" white-hits="0" guess="5500">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="5005">
+          <node black-hits="3" white-hits="0" guess="5505">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="5535">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3535">
+          <node black-hits="2" white-hits="2" guess="5335">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="3355">
+        <node black-hits="1" white-hits="1" guess="5050">
+          <node black-hits="3" white-hits="0" guess="5550">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="5055">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3555">
+          <node black-hits="2" white-hits="2" guess="5355">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2555">
+        <node black-hits="2" white-hits="2" guess="5255">
+          <node black-hits="2" white-hits="2" guess="5552">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2255">
+        <node black-hits="2" white-hits="2" guess="2552">
+          <node black-hits="2" white-hits="2" guess="5252">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="1" guess="2242">
+      <node black-hits="0" white-hits="1" guess="3334">
+        <node black-hits="0" white-hits="1" guess="4000">
+          <node black-hits="2" white-hits="0" guess="4055">
+            <node black-hits="2" white-hits="2" guess="4505">
+              <node black-hits="2" white-hits="2" guess="4550">
+              </node>
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="4005">
+            <node black-hits="2" white-hits="2" guess="4050">
+              <node black-hits="2" white-hits="2" guess="4500">
+              </node>
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="4004">
+          <node black-hits="2" white-hits="0" guess="5054">
+            <node black-hits="2" white-hits="2" guess="5504">
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="4054">
+            <node black-hits="2" white-hits="1" guess="5004">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4504">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="4355">
+          <node black-hits="2" white-hits="2" guess="4535">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3554">
+          <node black-hits="2" white-hits="1" guess="4354">
+            <node black-hits="2" white-hits="2" guess="4534">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="5354">
+            <node black-hits="2" white-hits="2" guess="5534">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="4335">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3354">
+          <node black-hits="2" white-hits="1" guess="4334">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3534">
+            <node black-hits="2" white-hits="2" guess="5334">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="3344">
+        <node black-hits="1" white-hits="0" guess="5040">
+          <node black-hits="3" white-hits="0" guess="5045">
+            <node black-hits="2" white-hits="2" guess="5540">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="4040">
+          <node black-hits="3" white-hits="0" guess="4045">
+            <node black-hits="2" white-hits="2" guess="4540">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3545">
+          <node black-hits="1" white-hits="0" guess="4044">
+          </node>
+          <node black-hits="1" white-hits="1" guess="5044">
+          </node>
+          <node black-hits="1" white-hits="0" guess="5345">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="4345">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3345">
+          <node black-hits="2" white-hits="0" guess="4344">
+          </node>
+          <node black-hits="2" white-hits="1" guess="3544">
+            <node black-hits="2" white-hits="2" guess="5344">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="2554">
+        <node black-hits="1" white-hits="3" guess="4255">
+        </node>
+        <node black-hits="2" white-hits="1" guess="4254">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4552">
+          <node black-hits="1" white-hits="3" guess="5254">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2544">
+        <node black-hits="1" white-hits="2" guess="5245">
+        </node>
+        <node black-hits="1" white-hits="3" guess="4245">
+        </node>
+        <node black-hits="2" white-hits="1" guess="4244">
+          <node black-hits="1" white-hits="1" guess="5542">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="4542">
+          <node black-hits="1" white-hits="3" guess="5244">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2545">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2254">
+        <node black-hits="2" white-hits="2" guess="4252">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2244">
+        <node black-hits="2" white-hits="1" guess="2542">
+          <node black-hits="2" white-hits="2" guess="5242">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="4242">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2245">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="0" guess="1555">
+      <node black-hits="0" white-hits="0" guess="2442">
+        <node black-hits="1" white-hits="1" guess="3434">
+          <node black-hits="1" white-hits="1" guess="4400">
+          </node>
+          <node black-hits="2" white-hits="0" guess="4404">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4434">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3444">
+          <node black-hits="2" white-hits="1" guess="4440">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2444">
+          <node black-hits="2" white-hits="2" guess="4442">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="1" guess="5400">
+        <node black-hits="2" white-hits="0" guess="5434">
+          <node black-hits="2" white-hits="1" guess="5442">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="5404">
+          <node black-hits="2" white-hits="2" guess="5440">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="2445">
+        <node black-hits="1" white-hits="2" guess="3454">
+          <node black-hits="2" white-hits="1" guess="4450">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="4452">
+        </node>
+        <node black-hits="2" white-hits="0" guess="3435">
+        </node>
+        <node black-hits="2" white-hits="1" guess="2452">
+          <node black-hits="1" white-hits="1" guess="4405">
+            <node black-hits="3" white-hits="0" guess="4435">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="2454">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3445">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="5405">
+        <node black-hits="2" white-hits="1" guess="5452">
+        </node>
+        <node black-hits="2" white-hits="2" guess="5450">
+        </node>
+        <node black-hits="3" white-hits="0" guess="5435">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2455">
+        <node black-hits="3" white-hits="0" guess="3455">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="5515">
+        <node black-hits="2" white-hits="2" guess="5551">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="1544">
+      <node black-hits="1" white-hits="2" guess="4515">
+        <node black-hits="2" white-hits="2" guess="4551">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="5514">
+        <node black-hits="2" white-hits="2" guess="5541">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="4514">
+        <node black-hits="2" white-hits="2" guess="4541">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1545">
+        <node black-hits="2" white-hits="2" guess="1554">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="1444">
+      <node black-hits="0" white-hits="1" guess="5511">
+      </node>
+      <node black-hits="1" white-hits="0" guess="1515">
+        <node black-hits="2" white-hits="2" guess="1551">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="5415">
+        <node black-hits="2" white-hits="2" guess="5451">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="4415">
+        <node black-hits="2" white-hits="2" guess="4451">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1455">
+      </node>
+      <node black-hits="2" white-hits="1" guess="5414">
+        <node black-hits="2" white-hits="2" guess="5441">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="4414">
+        <node black-hits="2" white-hits="2" guess="4441">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1445">
+        <node black-hits="2" white-hits="2" guess="1454">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="1514">
+      <node black-hits="2" white-hits="2" guess="1541">
+        <node black-hits="2" white-hits="2" guess="4511">
+        </node>
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="1414">
+      <node black-hits="2" white-hits="0" guess="1511">
+      </node>
+      <node black-hits="2" white-hits="1" guess="1451">
+        <node black-hits="2" white-hits="2" guess="5411">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="1441">
+        <node black-hits="2" white-hits="2" guess="4411">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1415">
+      </node>
+    </node>
+  </node>
+  <node black-hits="0" white-hits="2" guess="1000">
+    <node black-hits="0" white-hits="0" guess="2232">
+      <node black-hits="1" white-hits="1" guess="2344">
+        <node black-hits="0" white-hits="2" guess="3255">
+          <node black-hits="2" white-hits="2" guess="3552">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="3" guess="3452">
+        </node>
+        <node black-hits="1" white-hits="1" guess="3352">
+          <node black-hits="3" white-hits="0" guess="5352">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3245">
+          <node black-hits="0" white-hits="4" guess="4352">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3254">
+            <node black-hits="1" white-hits="3" guess="3542">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3442">
+        </node>
+        <node black-hits="2" white-hits="0" guess="2355">
+        </node>
+        <node black-hits="2" white-hits="1" guess="3342">
+          <node black-hits="3" white-hits="0" guess="5342">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3244">
+          <node black-hits="1" white-hits="3" guess="4342">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2345">
+          <node black-hits="2" white-hits="2" guess="2354">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2334">
+        <node black-hits="1" white-hits="1" guess="5235">
+          <node black-hits="2" white-hits="2" guess="5532">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3235">
+          <node black-hits="1" white-hits="1" guess="4432">
+          </node>
+          <node black-hits="1" white-hits="2" guess="4532">
+            <node black-hits="2" white-hits="2" guess="5432">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="3532">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4235">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3432">
+        </node>
+        <node black-hits="2" white-hits="0" guess="2535">
+        </node>
+        <node black-hits="2" white-hits="1" guess="2435">
+          <node black-hits="1" white-hits="1" guess="3332">
+          </node>
+          <node black-hits="1" white-hits="2" guess="4234">
+            <node black-hits="1" white-hits="1" guess="5332">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="5234">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3234">
+          <node black-hits="1" white-hits="3" guess="4332">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2335">
+          <node black-hits="2" white-hits="0" guess="2434">
+          </node>
+          <node black-hits="2" white-hits="1" guess="2534">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2342">
+        <node black-hits="1" white-hits="2" guess="3252">
+        </node>
+        <node black-hits="2" white-hits="2" guess="3242">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2352">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2234">
+        <node black-hits="2" white-hits="1" guess="2332">
+          <node black-hits="2" white-hits="1" guess="5232">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3232">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2532">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="2432">
+          <node black-hits="2" white-hits="2" guess="4232">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2235">
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="1" guess="2211">
+      <node black-hits="1" white-hits="0" guess="3314">
+        <node black-hits="0" white-hits="2" guess="5531">
+        </node>
+        <node black-hits="0" white-hits="3" guess="4431">
+          <node black-hits="3" white-hits="0" guess="4531">
+            <node black-hits="2" white-hits="2" guess="5431">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="3551">
+          <node black-hits="2" white-hits="2" guess="5351">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3441">
+          <node black-hits="1" white-hits="1" guess="5331">
+          </node>
+          <node black-hits="1" white-hits="2" guess="4351">
+          </node>
+          <node black-hits="2" white-hits="0" guess="3531">
+          </node>
+          <node black-hits="2" white-hits="1" guess="5341">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4341">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3451">
+            <node black-hits="2" white-hits="2" guess="3541">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3431">
+          <node black-hits="2" white-hits="2" guess="4331">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3515">
+          <node black-hits="2" white-hits="2" guess="5315">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="3331">
+          <node black-hits="1" white-hits="1" guess="3415">
+            <node black-hits="2" white-hits="2" guess="4315">
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="3351">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3341">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3315">
+          <node black-hits="2" white-hits="0" guess="3414">
+            <node black-hits="2" white-hits="2" guess="4314">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="1" guess="3514">
+            <node black-hits="2" white-hits="2" guess="5314">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="4412">
+        <node black-hits="2" white-hits="0" guess="5512">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4512">
+          <node black-hits="2" white-hits="2" guess="5412">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2414">
+        <node black-hits="0" white-hits="2" guess="5251">
+        </node>
+        <node black-hits="0" white-hits="3" guess="4251">
+          <node black-hits="2" white-hits="2" guess="5241">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="4" guess="4241">
+        </node>
+        <node black-hits="1" white-hits="0" guess="3311">
+          <node black-hits="3" white-hits="0" guess="3511">
+            <node black-hits="2" white-hits="2" guess="5311">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="2551">
+          <node black-hits="0" white-hits="4" guess="5215">
+          </node>
+          <node black-hits="1" white-hits="0" guess="4311">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="2541">
+          <node black-hits="0" white-hits="4" guess="4215">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="2515">
+          <node black-hits="1" white-hits="0" guess="3411">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2451">
+          <node black-hits="0" white-hits="4" guess="5214">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="2441">
+          <node black-hits="0" white-hits="4" guess="4214">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2415">
+          <node black-hits="2" white-hits="2" guess="2514">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2412">
+        <node black-hits="2" white-hits="1" guess="5212">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4212">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2512">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2212">
+        <node black-hits="2" white-hits="0" guess="2411">
+          <node black-hits="2" white-hits="1" guess="5211">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4211">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2511">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2241">
+          <node black-hits="3" white-hits="0" guess="2251">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2214">
+          <node black-hits="3" white-hits="0" guess="2215">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="0" guess="1211">
+      <node black-hits="0" white-hits="0" guess="3034">
+        <node black-hits="0" white-hits="2" guess="5305">
+          <node black-hits="2" white-hits="2" guess="5350">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="3" guess="4305">
+          <node black-hits="1" white-hits="3" guess="5340">
+          </node>
+          <node black-hits="2" white-hits="1" guess="4340">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4350">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="3505">
+          <node black-hits="1" white-hits="3" guess="5530">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3550">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3305">
+          <node black-hits="0" white-hits="2" guess="4430">
+          </node>
+          <node black-hits="0" white-hits="3" guess="4530">
+            <node black-hits="2" white-hits="2" guess="5430">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="1" guess="3440">
+          </node>
+          <node black-hits="1" white-hits="2" guess="3450">
+            <node black-hits="2" white-hits="2" guess="3540">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="5330">
+          </node>
+          <node black-hits="2" white-hits="0" guess="4304">
+          </node>
+          <node black-hits="2" white-hits="1" guess="5304">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3350">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3405">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3340">
+          <node black-hits="2" white-hits="2" guess="4330">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3055">
+          <node black-hits="2" white-hits="2" guess="5035">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="3045">
+          <node black-hits="1" white-hits="1" guess="3330">
+          </node>
+          <node black-hits="1" white-hits="2" guess="3404">
+            <node black-hits="1" white-hits="1" guess="3530">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="3504">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4035">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3304">
+          <node black-hits="1" white-hits="3" guess="3430">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="3035">
+          <node black-hits="2" white-hits="0" guess="3044">
+            <node black-hits="2" white-hits="2" guess="4034">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="1" guess="3054">
+            <node black-hits="2" white-hits="2" guess="5034">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="1" guess="2042">
+        <node black-hits="1" white-hits="1" guess="2505">
+          <node black-hits="2" white-hits="2" guess="2550">
+            <node black-hits="1" white-hits="3" guess="5502">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="2404">
+          <node black-hits="1" white-hits="2" guess="4502">
+          </node>
+          <node black-hits="2" white-hits="1" guess="2450">
+            <node black-hits="1" white-hits="3" guess="5402">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="4402">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2405">
+            <node black-hits="2" white-hits="2" guess="2504">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="2055">
+          <node black-hits="2" white-hits="2" guess="5052">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2054">
+          <node black-hits="1" white-hits="2" guess="2440">
+            <node black-hits="1" white-hits="1" guess="2502">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="2540">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4052">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="2402">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2044">
+          <node black-hits="2" white-hits="0" guess="2052">
+          </node>
+          <node black-hits="2" white-hits="1" guess="5042">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4042">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2045">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="1334">
+        <node black-hits="0" white-hits="0" guess="2202">
+          <node black-hits="1" white-hits="1" guess="5250">
+          </node>
+          <node black-hits="2" white-hits="0" guess="5205">
+          </node>
+          <node black-hits="2" white-hits="1" guess="2250">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2205">
+            <node black-hits="2" white-hits="2" guess="5202">
+            </node>
+          </node>
+        </node>
+        <node black-hits="0" white-hits="1" guess="2240">
+          <node black-hits="1" white-hits="2" guess="4205">
+          </node>
+          <node black-hits="1" white-hits="3" guess="4202">
+          </node>
+          <node black-hits="2" white-hits="1" guess="4250">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4240">
+            <node black-hits="3" white-hits="0" guess="5240">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="2204">
+          <node black-hits="3" white-hits="0" guess="4204">
+            <node black-hits="3" white-hits="0" guess="5204">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1355">
+          <node black-hits="2" white-hits="2" guess="1535">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="1345">
+          <node black-hits="2" white-hits="2" guess="1435">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1335">
+          <node black-hits="2" white-hits="0" guess="1344">
+            <node black-hits="2" white-hits="2" guess="1434">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="1" guess="1354">
+            <node black-hits="2" white-hits="2" guess="1534">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1442">
+        <node black-hits="2" white-hits="0" guess="1552">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1452">
+          <node black-hits="2" white-hits="2" guess="1542">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1242">
+        <node black-hits="1" white-hits="0" guess="1315">
+          <node black-hits="1" white-hits="3" guess="1531">
+          </node>
+          <node black-hits="2" white-hits="1" guess="1331">
+          </node>
+          <node black-hits="2" white-hits="2" guess="1351">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="1314">
+          <node black-hits="1" white-hits="3" guess="1431">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1255">
+          <node black-hits="1" white-hits="0" guess="1341">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="1254">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1244">
+          <node black-hits="2" white-hits="0" guess="1252">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1245">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="1412">
+        <node black-hits="3" white-hits="0" guess="1512">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1212">
+        <node black-hits="2" white-hits="0" guess="1311">
+        </node>
+        <node black-hits="2" white-hits="1" guess="1241">
+          <node black-hits="3" white-hits="0" guess="1251">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1214">
+          <node black-hits="3" white-hits="0" guess="1215">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="4011">
+      <node black-hits="1" white-hits="1" guess="5501">
+        <node black-hits="2" white-hits="2" guess="5510">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="5401">
+        <node black-hits="2" white-hits="2" guess="5410">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="5015">
+        <node black-hits="2" white-hits="2" guess="5051">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="4401">
+        <node black-hits="0" white-hits="3" guess="5014">
+        </node>
+        <node black-hits="1" white-hits="2" guess="4510">
+          <node black-hits="0" white-hits="4" guess="5041">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="4410">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4501">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="4014">
+        <node black-hits="2" white-hits="0" guess="5011">
+        </node>
+        <node black-hits="2" white-hits="1" guess="4051">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4041">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4015">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="1011">
+      <node black-hits="0" white-hits="1" guess="2200">
+        <node black-hits="2" white-hits="0" guess="3300">
+          <node black-hits="3" white-hits="0" guess="3400">
+            <node black-hits="2" white-hits="1" guess="5300">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4300">
+            </node>
+            <node black-hits="3" white-hits="0" guess="3500">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2400">
+          <node black-hits="2" white-hits="1" guess="5200">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4200">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2500">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="2002">
+        <node black-hits="1" white-hits="1" guess="3030">
+          <node black-hits="3" white-hits="0" guess="3040">
+            <node black-hits="2" white-hits="1" guess="5030">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4030">
+            </node>
+            <node black-hits="3" white-hits="0" guess="3050">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3004">
+          <node black-hits="3" white-hits="0" guess="3005">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2040">
+          <node black-hits="3" white-hits="0" guess="2050">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2004">
+          <node black-hits="2" white-hits="1" guess="5002">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4002">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2005">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1404">
+        <node black-hits="1" white-hits="1" guess="1550">
+        </node>
+        <node black-hits="1" white-hits="2" guess="1540">
+        </node>
+        <node black-hits="2" white-hits="0" guess="1505">
+        </node>
+        <node black-hits="2" white-hits="1" guess="1450">
+        </node>
+        <node black-hits="2" white-hits="2" guess="1440">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1405">
+          <node black-hits="2" white-hits="2" guess="1504">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1044">
+        <node black-hits="2" white-hits="0" guess="1055">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1045">
+          <node black-hits="2" white-hits="2" guess="1054">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="1401">
+        <node black-hits="1" white-hits="2" guess="1510">
+        </node>
+        <node black-hits="2" white-hits="2" guess="1410">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1501">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1014">
+        <node black-hits="2" white-hits="1" guess="1051">
+        </node>
+        <node black-hits="2" white-hits="2" guess="1041">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1015">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="4001">
+      <node black-hits="1" white-hits="2" guess="5010">
+      </node>
+      <node black-hits="2" white-hits="2" guess="4010">
+      </node>
+      <node black-hits="3" white-hits="0" guess="5001">
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="1001">
+      <node black-hits="2" white-hits="0" guess="2000">
+        <node black-hits="3" white-hits="0" guess="3000">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="1040">
+        <node black-hits="2" white-hits="1" guess="1500">
+        </node>
+        <node black-hits="2" white-hits="2" guess="1400">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1050">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="1010">
+      </node>
+      <node black-hits="3" white-hits="0" guess="1004">
+        <node black-hits="3" white-hits="0" guess="1005">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="0" white-hits="3" guess="1002">
+    <node black-hits="0" white-hits="2" guess="2230">
+      <node black-hits="1" white-hits="1" guess="2311">
+        <node black-hits="1" white-hits="1" guess="3410">
+          <node black-hits="3" white-hits="0" guess="3510">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3214">
+          <node black-hits="2" white-hits="1" guess="3251">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3241">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3215">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="3310">
+          <node black-hits="3" white-hits="0" guess="4310">
+            <node black-hits="3" white-hits="0" guess="5310">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3211">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2314">
+          <node black-hits="2" white-hits="1" guess="2351">
+          </node>
+          <node black-hits="2" white-hits="2" guess="2341">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2315">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2331">
+        <node black-hits="2" white-hits="1" guess="4231">
+          <node black-hits="3" white-hits="0" guess="5231">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3231">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2431">
+          <node black-hits="3" white-hits="0" guess="2531">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2340">
+        <node black-hits="1" white-hits="2" guess="3250">
+        </node>
+        <node black-hits="2" white-hits="2" guess="3240">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2350">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2231">
+        <node black-hits="2" white-hits="0" guess="2330">
+          <node black-hits="2" white-hits="1" guess="4230">
+            <node black-hits="3" white-hits="0" guess="5230">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="3230">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2430">
+            <node black-hits="3" white-hits="0" guess="2530">
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="3" guess="2210">
+      <node black-hits="3" white-hits="0" guess="2410">
+        <node black-hits="2" white-hits="1" guess="5210">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4210">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2510">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="1231">
+      <node black-hits="0" white-hits="2" guess="2304">
+        <node black-hits="0" white-hits="2" guess="3015">
+        </node>
+        <node black-hits="1" white-hits="2" guess="3014">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2305">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="2312">
+        <node black-hits="2" white-hits="1" guess="3412">
+          <node black-hits="3" white-hits="0" guess="3512">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="3312">
+          <node black-hits="3" white-hits="0" guess="4312">
+            <node black-hits="3" white-hits="0" guess="5312">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1340">
+        <node black-hits="0" white-hits="2" guess="2035">
+          <node black-hits="1" white-hits="3" guess="3205">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="3" guess="2034">
+          <node black-hits="0" white-hits="2" guess="3501">
+          </node>
+          <node black-hits="1" white-hits="1" guess="3051">
+          </node>
+          <node black-hits="1" white-hits="3" guess="3204">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="4" guess="3401">
+        </node>
+        <node black-hits="1" white-hits="2" guess="3301">
+          <node black-hits="3" white-hits="0" guess="5301">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3041">
+          <node black-hits="1" white-hits="3" guess="4301">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1350">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="1310">
+        <node black-hits="1" white-hits="1" guess="3212">
+        </node>
+        <node black-hits="1" white-hits="3" guess="3011">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1330">
+        <node black-hits="1" white-hits="2" guess="4031">
+          <node black-hits="3" white-hits="0" guess="5031">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="3031">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1430">
+          <node black-hits="3" white-hits="0" guess="1530">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1234">
+        <node black-hits="3" white-hits="0" guess="1235">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="2" guess="1210">
+      <node black-hits="0" white-hits="3" guess="2041">
+        <node black-hits="2" white-hits="1" guess="2501">
+        </node>
+        <node black-hits="2" white-hits="2" guess="2401">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2051">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="2030">
+        <node black-hits="2" white-hits="2" guess="2300">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="2014">
+        <node black-hits="0" white-hits="3" guess="5201">
+        </node>
+        <node black-hits="0" white-hits="4" guess="4201">
+        </node>
+        <node black-hits="1" white-hits="2" guess="2201">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2015">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="2011">
+      </node>
+      <node black-hits="2" white-hits="0" guess="3010">
+        <node black-hits="2" white-hits="1" guess="3200">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1240">
+        <node black-hits="3" white-hits="0" guess="1250">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="3" guess="2010">
+    </node>
+    <node black-hits="2" white-hits="0" guess="1031">
+      <node black-hits="0" white-hits="2" guess="2302">
+        <node black-hits="2" white-hits="1" guess="3402">
+          <node black-hits="3" white-hits="0" guess="3502">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3202">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3302">
+          <node black-hits="3" white-hits="0" guess="4302">
+            <node black-hits="3" white-hits="0" guess="5302">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1342">
+        <node black-hits="1" white-hits="1" guess="3052">
+        </node>
+        <node black-hits="2" white-hits="1" guess="3042">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1352">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="1304">
+        <node black-hits="2" white-hits="0" guess="1312">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1305">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1232">
+        <node black-hits="2" white-hits="0" guess="3032">
+          <node black-hits="3" white-hits="0" guess="4032">
+            <node black-hits="3" white-hits="0" guess="5032">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2032">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1332">
+          <node black-hits="3" white-hits="0" guess="1432">
+            <node black-hits="3" white-hits="0" guess="1532">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="1301">
+      </node>
+      <node black-hits="3" white-hits="0" guess="1034">
+        <node black-hits="3" white-hits="0" guess="1035">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="1030">
+      <node black-hits="1" white-hits="1" guess="1201">
+        <node black-hits="0" white-hits="3" guess="2012">
+          <node black-hits="3" white-hits="0" guess="4012">
+            <node black-hits="3" white-hits="0" guess="5012">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1204">
+          <node black-hits="3" white-hits="0" guess="1205">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="3001">
+      </node>
+      <node black-hits="2" white-hits="2" guess="1300">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="2" guess="1200">
+      <node black-hits="1" white-hits="3" guess="2001">
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="1012">
+      <node black-hits="2" white-hits="0" guess="3002">
+      </node>
+      <node black-hits="2" white-hits="1" guess="1202">
+        <node black-hits="3" white-hits="0" guess="1402">
+          <node black-hits="3" white-hits="0" guess="1502">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1042">
+        <node black-hits="3" white-hits="0" guess="1052">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="0" white-hits="4" guess="1032">
+    <node black-hits="0" white-hits="4" guess="2301">
+      <node black-hits="0" white-hits="4" guess="3210">
+      </node>
+      <node black-hits="2" white-hits="2" guess="2310">
+        <node black-hits="0" white-hits="4" guess="3201">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="2" guess="1230">
+      <node black-hits="0" white-hits="4" guess="3012">
+      </node>
+      <node black-hits="1" white-hits="3" guess="1302">
+        <node black-hits="0" white-hits="4" guess="2031">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="1" white-hits="0" guess="0000">
+    <node black-hits="0" white-hits="0" guess="1111">
+      <node black-hits="0" white-hits="0" guess="2222">
+        <node black-hits="0" white-hits="0" guess="3333">
+          <node black-hits="1" white-hits="0" guess="4443">
+            <node black-hits="1" white-hits="0" guess="5553">
+            </node>
+            <node black-hits="2" white-hits="0" guess="4553">
+              <node black-hits="2" white-hits="2" guess="5453">
+                <node black-hits="2" white-hits="2" guess="5543">
+                </node>
+              </node>
+            </node>
+            <node black-hits="3" white-hits="0" guess="4453">
+              <node black-hits="2" white-hits="2" guess="4543">
+                <node black-hits="2" white-hits="2" guess="5443">
+                </node>
+              </node>
+            </node>
+          </node>
+          <node black-hits="2" white-hits="0" guess="3443">
+            <node black-hits="1" white-hits="1" guess="5353">
+              <node black-hits="2" white-hits="2" guess="5533">
+              </node>
+            </node>
+            <node black-hits="1" white-hits="2" guess="4353">
+              <node black-hits="2" white-hits="2" guess="4533">
+              </node>
+            </node>
+            <node black-hits="2" white-hits="0" guess="3553">
+            </node>
+            <node black-hits="2" white-hits="1" guess="5343">
+              <node black-hits="2" white-hits="2" guess="5433">
+              </node>
+            </node>
+            <node black-hits="2" white-hits="2" guess="4343">
+              <node black-hits="2" white-hits="2" guess="4433">
+              </node>
+            </node>
+            <node black-hits="3" white-hits="0" guess="3453">
+              <node black-hits="2" white-hits="2" guess="3543">
+              </node>
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="3343">
+            <node black-hits="2" white-hits="1" guess="3533">
+              <node black-hits="2" white-hits="2" guess="5333">
+              </node>
+            </node>
+            <node black-hits="2" white-hits="2" guess="3433">
+              <node black-hits="2" white-hits="2" guess="4333">
+              </node>
+            </node>
+            <node black-hits="3" white-hits="0" guess="3353">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="4424">
+          <node black-hits="1" white-hits="0" guess="5525">
+          </node>
+          <node black-hits="2" white-hits="0" guess="4525">
+            <node black-hits="2" white-hits="2" guess="5425">
+              <node black-hits="2" white-hits="2" guess="5524">
+              </node>
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="4425">
+            <node black-hits="2" white-hits="2" guess="4524">
+              <node black-hits="2" white-hits="2" guess="5424">
+              </node>
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="2424">
+          <node black-hits="1" white-hits="1" guess="5225">
+            <node black-hits="2" white-hits="2" guess="5522">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="2" guess="4225">
+            <node black-hits="2" white-hits="2" guess="4522">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="0" guess="2525">
+          </node>
+          <node black-hits="2" white-hits="1" guess="5224">
+            <node black-hits="2" white-hits="2" guess="5422">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="4224">
+            <node black-hits="2" white-hits="2" guess="4422">
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="2425">
+            <node black-hits="2" white-hits="2" guess="2524">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2224">
+          <node black-hits="2" white-hits="1" guess="2522">
+            <node black-hits="2" white-hits="2" guess="5222">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="2422">
+            <node black-hits="2" white-hits="2" guess="4222">
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="2225">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="4144">
+        <node black-hits="1" white-hits="0" guess="5155">
+        </node>
+        <node black-hits="2" white-hits="0" guess="4155">
+          <node black-hits="2" white-hits="2" guess="5145">
+            <node black-hits="2" white-hits="2" guess="5154">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="4145">
+          <node black-hits="2" white-hits="2" guess="4154">
+            <node black-hits="2" white-hits="2" guess="5144">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1144">
+        <node black-hits="1" white-hits="1" guess="5115">
+          <node black-hits="2" white-hits="2" guess="5151">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="4115">
+          <node black-hits="2" white-hits="2" guess="4151">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1155">
+        </node>
+        <node black-hits="2" white-hits="1" guess="5114">
+          <node black-hits="2" white-hits="2" guess="5141">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="4114">
+          <node black-hits="2" white-hits="2" guess="4141">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1145">
+          <node black-hits="2" white-hits="2" guess="1154">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1114">
+        <node black-hits="2" white-hits="1" guess="1151">
+          <node black-hits="2" white-hits="2" guess="5111">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="1141">
+          <node black-hits="2" white-hits="2" guess="4111">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="1115">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="0" guess="0444">
+      <node black-hits="1" white-hits="0" guess="0555">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0455">
+        <node black-hits="2" white-hits="2" guess="0545">
+          <node black-hits="2" white-hits="2" guess="0554">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0445">
+        <node black-hits="2" white-hits="2" guess="0454">
+          <node black-hits="2" white-hits="2" guess="0544">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="0044">
+      <node black-hits="1" white-hits="1" guess="0505">
+        <node black-hits="2" white-hits="2" guess="0550">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="0405">
+        <node black-hits="2" white-hits="2" guess="0450">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="0055">
+      </node>
+      <node black-hits="2" white-hits="1" guess="0504">
+        <node black-hits="2" white-hits="2" guess="0540">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="0404">
+        <node black-hits="2" white-hits="2" guess="0440">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0045">
+        <node black-hits="2" white-hits="2" guess="0054">
+        </node>
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="0004">
+      <node black-hits="2" white-hits="1" guess="0050">
+        <node black-hits="2" white-hits="2" guess="0500">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="0040">
+        <node black-hits="2" white-hits="2" guess="0400">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0005">
+      </node>
+    </node>
+  </node>
+  <node black-hits="1" white-hits="1" guess="0001">
+    <node black-hits="0" white-hits="0" guess="2233">
+      <node black-hits="0" white-hits="2" guess="3424">
+        <node black-hits="1" white-hits="1" guess="5325">
+        </node>
+        <node black-hits="1" white-hits="2" guess="4325">
+        </node>
+        <node black-hits="2" white-hits="0" guess="3525">
+        </node>
+        <node black-hits="2" white-hits="1" guess="5324">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4324">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3425">
+          <node black-hits="2" white-hits="2" guess="3524">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="3324">
+        <node black-hits="2" white-hits="0" guess="3522">
+          <node black-hits="2" white-hits="2" guess="5322">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="3422">
+          <node black-hits="2" white-hits="2" guess="4322">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="3325">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="4" guess="3322">
+      </node>
+      <node black-hits="1" white-hits="2" guess="2322">
+        <node black-hits="1" white-hits="2" guess="3224">
+          <node black-hits="3" white-hits="0" guess="3225">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3222">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2324">
+          <node black-hits="3" white-hits="0" guess="2325">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="2443">
+        <node black-hits="1" white-hits="1" guess="5253">
+        </node>
+        <node black-hits="1" white-hits="2" guess="4253">
+        </node>
+        <node black-hits="2" white-hits="0" guess="2553">
+        </node>
+        <node black-hits="2" white-hits="1" guess="5243">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4243">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2453">
+          <node black-hits="2" white-hits="2" guess="2543">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2343">
+        <node black-hits="1" white-hits="2" guess="3253">
+        </node>
+        <node black-hits="2" white-hits="2" guess="3243">
+        </node>
+        <node black-hits="3" white-hits="0" guess="2353">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="2243">
+        <node black-hits="2" white-hits="0" guess="2333">
+          <node black-hits="2" white-hits="1" guess="5233">
+          </node>
+          <node black-hits="2" white-hits="2" guess="3233">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2533">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2433">
+          <node black-hits="2" white-hits="2" guess="4233">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2253">
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="1" guess="1112">
+      <node black-hits="0" white-hits="1" guess="2220">
+        <node black-hits="2" white-hits="0" guess="4420">
+          <node black-hits="2" white-hits="0" guess="5520">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4520">
+            <node black-hits="2" white-hits="2" guess="5420">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2420">
+          <node black-hits="2" white-hits="1" guess="5220">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4220">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2520">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="1333">
+        <node black-hits="0" white-hits="2" guess="3144">
+          <node black-hits="2" white-hits="0" guess="3155">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3145">
+            <node black-hits="2" white-hits="2" guess="3154">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="4134">
+          <node black-hits="0" white-hits="2" guess="5513">
+          </node>
+          <node black-hits="0" white-hits="3" guess="5413">
+          </node>
+          <node black-hits="1" white-hits="2" guess="4513">
+          </node>
+          <node black-hits="1" white-hits="3" guess="4413">
+          </node>
+          <node black-hits="2" white-hits="0" guess="5135">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4135">
+            <node black-hits="2" white-hits="2" guess="5134">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="3134">
+          <node black-hits="1" white-hits="2" guess="3513">
+          </node>
+          <node black-hits="1" white-hits="3" guess="3413">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3135">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1443">
+          <node black-hits="2" white-hits="0" guess="1553">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1453">
+            <node black-hits="2" white-hits="2" guess="1543">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="4313">
+          <node black-hits="3" white-hits="0" guess="5313">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="3313">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1343">
+          <node black-hits="2" white-hits="1" guess="1533">
+          </node>
+          <node black-hits="2" white-hits="2" guess="1433">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1353">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1224">
+        <node black-hits="0" white-hits="2" guess="2155">
+        </node>
+        <node black-hits="0" white-hits="3" guess="2145">
+        </node>
+        <node black-hits="1" white-hits="2" guess="2144">
+          <node black-hits="3" white-hits="0" guess="2154">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1525">
+        </node>
+        <node black-hits="2" white-hits="1" guess="1425">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1225">
+          <node black-hits="2" white-hits="0" guess="1424">
+          </node>
+          <node black-hits="2" white-hits="1" guess="1524">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="1134">
+        <node black-hits="1" white-hits="0" guess="1222">
+          <node black-hits="1" white-hits="1" guess="5152">
+          </node>
+          <node black-hits="1" white-hits="2" guess="2152">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1522">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="1422">
+          <node black-hits="1" white-hits="2" guess="4142">
+            <node black-hits="3" white-hits="0" guess="4152">
+              <node black-hits="2" white-hits="2" guess="5142">
+              </node>
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="2142">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="1313">
+          <node black-hits="1" white-hits="2" guess="3115">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1513">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="1413">
+        </node>
+        <node black-hits="2" white-hits="2" guess="3114">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1135">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2114">
+        <node black-hits="3" white-hits="0" guess="2115">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1142">
+        <node black-hits="2" white-hits="1" guess="2112">
+          <node black-hits="3" white-hits="0" guess="5112">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="4112">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1152">
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="2" guess="1110">
+      <node black-hits="2" white-hits="0" guess="4140">
+        <node black-hits="2" white-hits="0" guess="5150">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4150">
+          <node black-hits="2" white-hits="2" guess="5140">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1140">
+        <node black-hits="2" white-hits="1" guess="5110">
+        </node>
+        <node black-hits="2" white-hits="2" guess="4110">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1150">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="0" guess="0242">
+      <node black-hits="0" white-hits="0" guess="1131">
+        <node black-hits="2" white-hits="1" guess="3151">
+        </node>
+        <node black-hits="2" white-hits="2" guess="3111">
+        </node>
+        <node black-hits="3" white-hits="0" guess="3131">
+          <node black-hits="3" white-hits="0" guess="5131">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="1" guess="1521">
+        <node black-hits="0" white-hits="0" guess="3033">
+          <node black-hits="2" white-hits="2" guess="3303">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="1" guess="3053">
+          <node black-hits="1" white-hits="3" guess="5303">
+          </node>
+          <node black-hits="2" white-hits="2" guess="5033">
+          </node>
+          <node black-hits="3" white-hits="0" guess="5053">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="3503">
+          <node black-hits="3" white-hits="0" guess="5503">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="4131">
+        </node>
+        <node black-hits="1" white-hits="2" guess="2111">
+        </node>
+        <node black-hits="1" white-hits="3" guess="2151">
+        </node>
+        <node black-hits="3" white-hits="0" guess="5521">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="2" guess="1421">
+        <node black-hits="0" white-hits="1" guess="4033">
+          <node black-hits="2" white-hits="1" guess="4503">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4303">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4053">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="0" guess="3403">
+          <node black-hits="0" white-hits="1" guess="5025">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4403">
+            <node black-hits="3" white-hits="0" guess="5403">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="2521">
+        </node>
+        <node black-hits="2" white-hits="1" guess="4521">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4421">
+          <node black-hits="3" white-hits="0" guess="5421">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="2025">
+        <node black-hits="2" white-hits="0" guess="2421">
+          <node black-hits="1" white-hits="1" guess="4024">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="5024">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4025">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="4" guess="2024">
+      </node>
+      <node black-hits="1" white-hits="0" guess="0335">
+        <node black-hits="0" white-hits="1" guess="3141">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0355">
+          <node black-hits="2" white-hits="2" guess="0535">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="0334">
+        <node black-hits="0" white-hits="0" guess="1221">
+          <node black-hits="3" white-hits="0" guess="2221">
+            <node black-hits="3" white-hits="0" guess="5221">
+            </node>
+          </node>
+        </node>
+        <node black-hits="0" white-hits="1" guess="2141">
+        </node>
+        <node black-hits="0" white-hits="3" guess="4043">
+          <node black-hits="3" white-hits="0" guess="5043">
+          </node>
+        </node>
+        <node black-hits="0" white-hits="4" guess="3043">
+        </node>
+        <node black-hits="2" white-hits="1" guess="0435">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0354">
+          <node black-hits="2" white-hits="1" guess="0434">
+          </node>
+          <node black-hits="2" white-hits="2" guess="0534">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="2022">
+        <node black-hits="1" white-hits="1" guess="4221">
+        </node>
+        <node black-hits="3" white-hits="0" guess="5022">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="4022">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0255">
+        <node black-hits="1" white-hits="0" guess="0344">
+        </node>
+        <node black-hits="2" white-hits="0" guess="0345">
+        </node>
+        <node black-hits="2" white-hits="2" guess="0552">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="0254">
+        <node black-hits="2" white-hits="2" guess="0452">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0244">
+        <node black-hits="2" white-hits="0" guess="0252">
+        </node>
+        <node black-hits="2" white-hits="1" guess="0542">
+        </node>
+        <node black-hits="2" white-hits="2" guess="0442">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0245">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="0240">
+      <node black-hits="0" white-hits="1" guess="1105">
+        <node black-hits="3" white-hits="0" guess="5105">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="2" guess="1104">
+        <node black-hits="2" white-hits="1" guess="4105">
+        </node>
+        <node black-hits="3" white-hits="0" guess="4104">
+          <node black-hits="3" white-hits="0" guess="5104">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="0515">
+      </node>
+      <node black-hits="1" white-hits="1" guess="0414">
+        <node black-hits="3" white-hits="0" guess="0415">
+          <node black-hits="2" white-hits="2" guess="0514">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="2020">
+        <node black-hits="3" white-hits="0" guess="5020">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="4020">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0330">
+        <node black-hits="3" white-hits="0" guess="0350">
+          <node black-hits="2" white-hits="2" guess="0530">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="0430">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0250">
+        <node black-hits="2" white-hits="0" guess="0340">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="2" guess="0410">
+      <node black-hits="1" white-hits="2" guess="1100">
+        <node black-hits="3" white-hits="0" guess="5100">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="4100">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0510">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="0034">
+      <node black-hits="0" white-hits="1" guess="1101">
+        <node black-hits="3" white-hits="0" guess="5101">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="2" guess="4101">
+      </node>
+      <node black-hits="1" white-hits="0" guess="0511">
+        <node black-hits="3" white-hits="0" guess="0551">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="0202">
+        <node black-hits="1" white-hits="0" guess="0411">
+          <node black-hits="2" white-hits="1" guess="0541">
+          </node>
+          <node black-hits="3" white-hits="0" guess="0441">
+            <node black-hits="3" white-hits="0" guess="0451">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="0205">
+          <node black-hits="2" white-hits="2" guess="0502">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="0305">
+        <node black-hits="1" white-hits="2" guess="3003">
+        </node>
+        <node black-hits="1" white-hits="3" guess="5003">
+        </node>
+        <node black-hits="2" white-hits="0" guess="0402">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="4003">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0052">
+      </node>
+      <node black-hits="2" white-hits="1" guess="0042">
+        <node black-hits="1" white-hits="3" guess="0204">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="0304">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0035">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="0014">
+      <node black-hits="1" white-hits="1" guess="0200">
+        <node black-hits="3" white-hits="0" guess="0300">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="0030">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0015">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="2" guess="0010">
+    </node>
+    <node black-hits="3" white-hits="0" guess="0002">
+      <node black-hits="2" white-hits="0" guess="0011">
+        <node black-hits="2" white-hits="1" guess="0401">
+          <node black-hits="3" white-hits="0" guess="0501">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="0041">
+          <node black-hits="3" white-hits="0" guess="0051">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="1" white-hits="2" guess="0012">
+    <node black-hits="0" white-hits="2" guess="1130">
+      <node black-hits="0" white-hits="2" guess="2203">
+        <node black-hits="0" white-hits="2" guess="3321">
+          <node black-hits="3" white-hits="0" guess="3421">
+            <node black-hits="2" white-hits="1" guess="5321">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4321">
+            </node>
+            <node black-hits="3" white-hits="0" guess="3521">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="2321">
+          <node black-hits="2" white-hits="2" guess="3221">
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2303">
+          <node black-hits="2" white-hits="1" guess="4203">
+            <node black-hits="3" white-hits="0" guess="5203">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="3203">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2403">
+            <node black-hits="3" white-hits="0" guess="2503">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1243">
+        <node black-hits="0" white-hits="2" guess="2320">
+          <node black-hits="2" white-hits="1" guess="3520">
+          </node>
+          <node black-hits="3" white-hits="0" guess="3320">
+            <node black-hits="3" white-hits="0" guess="5320">
+            </node>
+          </node>
+        </node>
+        <node black-hits="0" white-hits="3" guess="3420">
+          <node black-hits="2" white-hits="2" guess="4320">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="3220">
+        </node>
+        <node black-hits="1" white-hits="2" guess="1325">
+        </node>
+        <node black-hits="1" white-hits="3" guess="1324">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1253">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="1303">
+        <node black-hits="1" white-hits="2" guess="3104">
+          <node black-hits="3" white-hits="0" guess="3105">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="1321">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1403">
+          <node black-hits="3" white-hits="0" guess="1503">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="3101">
+      </node>
+      <node black-hits="2" white-hits="0" guess="1233">
+        <node black-hits="1" white-hits="2" guess="2134">
+          <node black-hits="3" white-hits="0" guess="2135">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2131">
+        <node black-hits="1" white-hits="1" guess="3140">
+          <node black-hits="3" white-hits="0" guess="3150">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="3130">
+        <node black-hits="3" white-hits="0" guess="4130">
+          <node black-hits="3" white-hits="0" guess="5130">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="3" guess="1220">
+      <node black-hits="0" white-hits="3" guess="2101">
+        <node black-hits="3" white-hits="0" guess="2104">
+          <node black-hits="3" white-hits="0" guess="2105">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="3100">
+      </node>
+      <node black-hits="1" white-hits="2" guess="2140">
+        <node black-hits="3" white-hits="0" guess="2150">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1420">
+        <node black-hits="3" white-hits="0" guess="1520">
+        </node>
+      </node>
+    </node>
+    <node black-hits="0" white-hits="4" guess="2100">
+    </node>
+    <node black-hits="1" white-hits="1" guess="0234">
+      <node black-hits="0" white-hits="2" guess="1053">
+        <node black-hits="0" white-hits="3" guess="3110">
+        </node>
+        <node black-hits="1" white-hits="1" guess="1322">
+          <node black-hits="1" white-hits="2" guess="2313">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="2" guess="2513">
+          <node black-hits="0" white-hits="4" guess="3152">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="1043">
+        <node black-hits="1" white-hits="1" guess="3025">
+        </node>
+        <node black-hits="1" white-hits="2" guess="2413">
+          <node black-hits="0" white-hits="4" guess="3142">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="2053">
+        </node>
+      </node>
+      <node black-hits="0" white-hits="4" guess="2043">
+      </node>
+      <node black-hits="1" white-hits="1" guess="0351">
+        <node black-hits="0" white-hits="2" guess="1132">
+          <node black-hits="0" white-hits="3" guess="2213">
+            <node black-hits="3" white-hits="0" guess="3213">
+            </node>
+          </node>
+          <node black-hits="1" white-hits="3" guess="1213">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2132">
+            <node black-hits="3" white-hits="0" guess="3132">
+            </node>
+          </node>
+        </node>
+        <node black-hits="0" white-hits="3" guess="1033">
+          <node black-hits="1" white-hits="1" guess="5132">
+            <node black-hits="1" white-hits="3" guess="5213">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="0341">
+        <node black-hits="0" white-hits="2" guess="2033">
+        </node>
+        <node black-hits="0" white-hits="3" guess="4132">
+          <node black-hits="1" white-hits="3" guess="4213">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="3024">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0331">
+        <node black-hits="3" white-hits="0" guess="0531">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="0431">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0235">
+      </node>
+    </node>
+    <node black-hits="1" white-hits="2" guess="0230">
+      <node black-hits="0" white-hits="2" guess="1021">
+        <node black-hits="0" white-hits="3" guess="2102">
+          <node black-hits="3" white-hits="0" guess="4102">
+            <node black-hits="3" white-hits="0" guess="5102">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="1102">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1024">
+          <node black-hits="2" white-hits="1" guess="2021">
+            <node black-hits="3" white-hits="0" guess="5021">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="4021">
+          </node>
+          <node black-hits="3" white-hits="0" guess="1025">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="1003">
+      </node>
+      <node black-hits="0" white-hits="4" guess="2003">
+      </node>
+      <node black-hits="1" white-hits="1" guess="2110">
+      </node>
+      <node black-hits="1" white-hits="2" guess="0301">
+      </node>
+      <node black-hits="1" white-hits="3" guess="3020">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0241">
+        <node black-hits="3" white-hits="0" guess="0251">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="3" guess="0201">
+      <node black-hits="0" white-hits="4" guess="1020">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="0232">
+      <node black-hits="0" white-hits="2" guess="1013">
+        <node black-hits="3" white-hits="0" guess="3013">
+          <node black-hits="3" white-hits="0" guess="4013">
+            <node black-hits="3" white-hits="0" guess="5013">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="0311">
+        <node black-hits="1" white-hits="2" guess="3112">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0314">
+          <node black-hits="3" white-hits="0" guess="0315">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="3022">
+      </node>
+      <node black-hits="2" white-hits="1" guess="0342">
+        <node black-hits="3" white-hits="0" guess="0352">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0332">
+        <node black-hits="3" white-hits="0" guess="0432">
+          <node black-hits="3" white-hits="0" guess="0532">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="0031">
+      <node black-hits="1" white-hits="1" guess="0214">
+        <node black-hits="0" white-hits="3" guess="1022">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0215">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="0302">
+      </node>
+      <node black-hits="1" white-hits="3" guess="0310">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0211">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="2" guess="0210">
+    </node>
+    <node black-hits="3" white-hits="0" guess="0032">
+      <node black-hits="2" white-hits="0" guess="0212">
+        <node black-hits="3" white-hits="0" guess="0412">
+          <node black-hits="3" white-hits="0" guess="0512">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="1" white-hits="3" guess="0231">
+    <node black-hits="0" white-hits="4" guess="1320">
+      <node black-hits="0" white-hits="4" guess="2013">
+        <node black-hits="0" white-hits="4" guess="3102">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="3" guess="0312">
+      <node black-hits="0" white-hits="4" guess="1203">
+        <node black-hits="0" white-hits="4" guess="2130">
+          <node black-hits="0" white-hits="4" guess="3021">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="2" white-hits="0" guess="0003">
+    <node black-hits="0" white-hits="0" guess="1121">
+      <node black-hits="2" white-hits="0" guess="2122">
+        <node black-hits="2" white-hits="0" guess="4124">
+          <node black-hits="2" white-hits="0" guess="5125">
+          </node>
+          <node black-hits="3" white-hits="0" guess="4125">
+            <node black-hits="2" white-hits="2" guess="5124">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2124">
+          <node black-hits="2" white-hits="1" guess="5122">
+          </node>
+          <node black-hits="2" white-hits="2" guess="4122">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2125">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="1122">
+        <node black-hits="2" white-hits="1" guess="4121">
+          <node black-hits="3" white-hits="0" guess="5121">
+          </node>
+        </node>
+        <node black-hits="2" white-hits="2" guess="2121">
+        </node>
+        <node black-hits="3" white-hits="0" guess="1124">
+          <node black-hits="3" white-hits="0" guess="1125">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="0" guess="0111">
+      <node black-hits="0" white-hits="0" guess="2223">
+        <node black-hits="2" white-hits="0" guess="3323">
+          <node black-hits="2" white-hits="0" guess="4423">
+            <node black-hits="2" white-hits="0" guess="5523">
+            </node>
+            <node black-hits="3" white-hits="0" guess="4523">
+              <node black-hits="2" white-hits="2" guess="5423">
+              </node>
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="3423">
+            <node black-hits="2" white-hits="1" guess="5323">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4323">
+            </node>
+            <node black-hits="3" white-hits="0" guess="3523">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="2323">
+          <node black-hits="2" white-hits="1" guess="4223">
+            <node black-hits="3" white-hits="0" guess="5223">
+            </node>
+          </node>
+          <node black-hits="2" white-hits="2" guess="3223">
+          </node>
+          <node black-hits="3" white-hits="0" guess="2423">
+            <node black-hits="3" white-hits="0" guess="2523">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="0" guess="0222">
+        <node black-hits="0" white-hits="0" guess="3133">
+          <node black-hits="2" white-hits="0" guess="4143">
+            <node black-hits="2" white-hits="0" guess="5153">
+            </node>
+            <node black-hits="3" white-hits="0" guess="4153">
+              <node black-hits="2" white-hits="2" guess="5143">
+              </node>
+            </node>
+          </node>
+          <node black-hits="3" white-hits="0" guess="3143">
+            <node black-hits="2" white-hits="1" guess="5133">
+            </node>
+            <node black-hits="2" white-hits="2" guess="4133">
+            </node>
+            <node black-hits="3" white-hits="0" guess="3153">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="0" guess="0424">
+          <node black-hits="2" white-hits="0" guess="0525">
+          </node>
+          <node black-hits="3" white-hits="0" guess="0425">
+            <node black-hits="2" white-hits="2" guess="0524">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="0224">
+          <node black-hits="2" white-hits="1" guess="0522">
+          </node>
+          <node black-hits="2" white-hits="2" guess="0422">
+          </node>
+          <node black-hits="3" white-hits="0" guess="0225">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="1133">
+        <node black-hits="3" white-hits="0" guess="1143">
+          <node black-hits="3" white-hits="0" guess="1153">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="0" guess="0144">
+        <node black-hits="1" white-hits="0" guess="3113">
+          <node black-hits="3" white-hits="0" guess="5113">
+          </node>
+        </node>
+        <node black-hits="1" white-hits="1" guess="4113">
+        </node>
+        <node black-hits="2" white-hits="0" guess="0155">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0145">
+          <node black-hits="2" white-hits="2" guess="0154">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="1113">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0114">
+        <node black-hits="2" white-hits="1" guess="0151">
+        </node>
+        <node black-hits="2" white-hits="2" guess="0141">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0115">
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="0110">
+      <node black-hits="2" white-hits="0" guess="0220">
+        <node black-hits="3" white-hits="0" guess="0420">
+          <node black-hits="3" white-hits="0" guess="0520">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0140">
+        <node black-hits="3" white-hits="0" guess="0150">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="0" guess="0022">
+      <node black-hits="1" white-hits="0" guess="0333">
+        <node black-hits="2" white-hits="0" guess="0443">
+          <node black-hits="2" white-hits="0" guess="0553">
+          </node>
+          <node black-hits="3" white-hits="0" guess="0453">
+            <node black-hits="2" white-hits="2" guess="0543">
+            </node>
+          </node>
+        </node>
+        <node black-hits="3" white-hits="0" guess="0343">
+          <node black-hits="2" white-hits="1" guess="0533">
+          </node>
+          <node black-hits="2" white-hits="2" guess="0433">
+          </node>
+          <node black-hits="3" white-hits="0" guess="0353">
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="0101">
+        <node black-hits="3" white-hits="0" guess="0104">
+          <node black-hits="3" white-hits="0" guess="0105">
+          </node>
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0024">
+        <node black-hits="3" white-hits="0" guess="0025">
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="0020">
+      <node black-hits="2" white-hits="1" guess="0100">
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="0033">
+      <node black-hits="2" white-hits="1" guess="0403">
+        <node black-hits="3" white-hits="0" guess="0503">
+        </node>
+      </node>
+      <node black-hits="2" white-hits="2" guess="0303">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0043">
+        <node black-hits="3" white-hits="0" guess="0053">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="2" white-hits="1" guess="0013">
+    <node black-hits="0" white-hits="2" guess="1120">
+      <node black-hits="2" white-hits="0" guess="3122">
+        <node black-hits="3" white-hits="0" guess="3124">
+          <node black-hits="3" white-hits="0" guess="3125">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="3121">
+      </node>
+      <node black-hits="3" white-hits="0" guess="2120">
+        <node black-hits="3" white-hits="0" guess="4120">
+          <node black-hits="3" white-hits="0" guess="5120">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="1" guess="0142">
+      <node black-hits="0" white-hits="2" guess="1223">
+        <node black-hits="3" white-hits="0" guess="1323">
+          <node black-hits="3" white-hits="0" guess="1523">
+          </node>
+        </node>
+      </node>
+      <node black-hits="0" white-hits="3" guess="1423">
+      </node>
+      <node black-hits="1" white-hits="1" guess="0325">
+        <node black-hits="0" white-hits="2" guess="2133">
+        </node>
+        <node black-hits="0" white-hits="3" guess="2153">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="2" guess="0221">
+        <node black-hits="2" white-hits="0" guess="0324">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0521">
+        </node>
+      </node>
+      <node black-hits="1" white-hits="3" guess="0421">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0322">
+      </node>
+      <node black-hits="2" white-hits="1" guess="2143">
+      </node>
+      <node black-hits="3" white-hits="0" guess="0152">
+      </node>
+    </node>
+    <node black-hits="1" white-hits="2" guess="0102">
+      <node black-hits="1" white-hits="2" guess="0320">
+      </node>
+      <node black-hits="2" white-hits="0" guess="0131">
+        <node black-hits="1" white-hits="2" guess="3103">
+          <node black-hits="3" white-hits="0" guess="4103">
+            <node black-hits="3" white-hits="0" guess="5103">
+            </node>
+          </node>
+        </node>
+        <node black-hits="1" white-hits="3" guess="1103">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0134">
+          <node black-hits="3" white-hits="0" guess="0135">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="1" white-hits="3" guess="0130">
+    </node>
+    <node black-hits="2" white-hits="0" guess="0112">
+      <node black-hits="0" white-hits="2" guess="2023">
+        <node black-hits="3" white-hits="0" guess="3023">
+          <node black-hits="3" white-hits="0" guess="4023">
+            <node black-hits="3" white-hits="0" guess="5023">
+            </node>
+          </node>
+        </node>
+      </node>
+      <node black-hits="1" white-hits="1" guess="0233">
+        <node black-hits="3" white-hits="0" guess="0243">
+          <node black-hits="3" white-hits="0" guess="0253">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="2113">
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="0021">
+      <node black-hits="1" white-hits="2" guess="0203">
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="0313">
+      <node black-hits="3" white-hits="0" guess="0413">
+        <node black-hits="3" white-hits="0" guess="0513">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="2" white-hits="2" guess="0132">
+    <node black-hits="0" white-hits="4" guess="1023">
+    </node>
+    <node black-hits="1" white-hits="3" guess="0213">
+      <node black-hits="0" white-hits="4" guess="3120">
+      </node>
+      <node black-hits="1" white-hits="3" guess="0321">
+        <node black-hits="0" white-hits="4" guess="2103">
+        </node>
+      </node>
+    </node>
+  </node>
+  <node black-hits="3" white-hits="0" guess="0023">
+    <node black-hits="2" white-hits="0" guess="0113">
+      <node black-hits="2" white-hits="0" guess="0122">
+        <node black-hits="2" white-hits="0" guess="3123">
+          <node black-hits="3" white-hits="0" guess="4123">
+            <node black-hits="3" white-hits="0" guess="5123">
+            </node>
+          </node>
+        </node>
+        <node black-hits="2" white-hits="1" guess="2123">
+        </node>
+        <node black-hits="3" white-hits="0" guess="0124">
+          <node black-hits="3" white-hits="0" guess="0125">
+          </node>
+        </node>
+      </node>
+      <node black-hits="2" white-hits="1" guess="0121">
+        <node black-hits="2" white-hits="1" guess="1123">
+        </node>
+      </node>
+      <node black-hits="3" white-hits="0" guess="0133">
+        <node black-hits="3" white-hits="0" guess="0143">
+          <node black-hits="3" white-hits="0" guess="0153">
+          </node>
+        </node>
+      </node>
+    </node>
+    <node black-hits="2" white-hits="1" guess="0103">
+      <node black-hits="2" white-hits="1" guess="0120">
+      </node>
+    </node>
+    <node black-hits="3" white-hits="0" guess="0223">
+      <node black-hits="3" white-hits="0" guess="0323">
+        <node black-hits="3" white-hits="0" guess="0423">
+          <node black-hits="3" white-hits="0" guess="0523">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</node>
